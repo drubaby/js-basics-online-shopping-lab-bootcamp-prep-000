@@ -42,6 +42,7 @@ function total() {
 
 function removeFromCart(item) {
   // write your code here
+  //for loop checking if item === i, if true return .splice()
   if (item){
     
   }
