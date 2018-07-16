@@ -34,6 +34,7 @@ else if (cart.length === 1){
 }
 function total() {
   // write your code here
+  
 }
 
 function removeFromCart(item) {
