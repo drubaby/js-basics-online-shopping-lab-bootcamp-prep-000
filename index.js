@@ -32,7 +32,6 @@ function viewCart() {
     return `In your cart, you have ${cartList}`
   }
 }
-}
 function total() {
   // write your code here
 }
