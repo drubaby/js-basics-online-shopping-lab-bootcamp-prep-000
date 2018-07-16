@@ -36,9 +36,9 @@ function total() {
   // write your code here
   var prices = 0
   for (let i = 0; i = cart.length; i++){
-  prices += cart[i].itemPrice
+  prices += cart[i].itemPrice;
   }
-  return prices
+  return prices;
 }
 
 function removeFromCart(item) {
